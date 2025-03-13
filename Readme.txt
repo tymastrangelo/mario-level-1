@@ -13,4 +13,4 @@ Getting Started:
    - pip install pytmx
 3. Execute 'project/main.py' to start the game. Have fun! 🎮
 
-credit: (coding lifestyle 4u)[https://www.youtube.com/@codinglifestyle4u]
+credit: https://www.youtube.com/@codinglifestyle4u
