@@ -7,8 +7,8 @@ About:
 This game is built using pygame and loads .tmx levels with pytmx. Currently, only level 1-1 is available.
 
 Getting Started:
-1. Install these Python libraries:
-   - pygame
-   - pytmx
-
-2. Execute 'project/main.py' to start the game. Have fun! 🎮
+1. download the zip of this code, and open in vs code
+2. install libraries
+   - pip install pygame
+   - pip install pytmx
+3. Execute 'project/main.py' to start the game. Have fun! 🎮
