@@ -1,7 +1,7 @@
 Title: "MarioPygame - Play Super Mario Bros in Python!"
 
 Description: 
-"MarioPygame is a Python remake of the classic Super Mario Bros game! 🍄 Watch how to run the code [YouTube link to be added].
+"MarioPygame is a Python remake of the classic Super Mario Bros game! 🍄
 
 About:
 This game is built using pygame and loads .tmx levels with pytmx. Currently, only level 1-1 is available.
